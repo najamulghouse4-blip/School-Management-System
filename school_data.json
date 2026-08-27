@@ -1,0 +1,27 @@
+{
+    "students": [
+        {
+            "name": "Ali",
+            "age": 26,
+            "e_mail": "aliahmed4@gmail.com",
+            "roll_no": "1",
+            "grades": {}
+        },
+        {
+            "name": "Najam",
+            "age": 32,
+            "e_mail": "najam@gmail.com",
+            "roll_no": "32",
+            "grades": {}
+        }
+    ],
+    "teachers": [
+        {
+            "name": "Najam",
+            "age": 40,
+            "subject": "English",
+            "emp_id": "1",
+            "e_mail": "najamteacher@gmail.com"
+        }
+    ]
+}
